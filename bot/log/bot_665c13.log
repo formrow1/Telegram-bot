@@ -1,0 +1,6 @@
+2025-06-05 21:45:29,476 [INFO] Логирование настроено. Логи пишутся в bot_9842e4.log
+2025-06-05 21:45:29,516 [INFO] Start polling
+2025-06-05 21:45:29,724 [INFO] Run polling for bot @legend9723bot id=8111965567 - 'Already a legend'
+2025-06-05 21:45:45,195 [INFO] Update id=250819813 is handled. Duration 4220 ms by bot id=8111965567
+2025-06-05 21:46:07,238 [INFO] Update id=250819814 is handled. Duration 183 ms by bot id=8111965567
+2025-06-05 21:46:38,419 [INFO] Update id=250819815 is handled. Duration 9644 ms by bot id=8111965567

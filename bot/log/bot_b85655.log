@@ -1,0 +1,98 @@
+2025-06-05 22:15:17,227 [INFO] Логирование настроено. Логи пишутся в bot_a66b87.log
+2025-06-05 22:15:17,263 [INFO] Start polling
+2025-06-05 22:15:17,426 [INFO] Run polling for bot @legend9723bot id=8111965567 - 'Already a legend'
+2025-06-05 22:15:29,168 [INFO] Msg received. 873105416 / еее
+2025-06-05 22:15:34,585 [INFO] Update id=250819829 is handled. Duration 5417 ms by bot id=8111965567
+2025-06-05 22:17:39,841 [INFO] Start msg received. 873105416
+2025-06-05 22:17:40,021 [INFO] Update id=250819830 is handled. Duration 180 ms by bot id=8111965567
+2025-06-05 22:18:06,394 [INFO] Help msg received. 873105416
+2025-06-05 22:18:06,562 [INFO] Update id=250819831 is handled. Duration 168 ms by bot id=8111965567
+2025-06-05 22:18:22,793 [INFO] Msg received. 873105416 / Кто такой Пушкин
+2025-06-05 22:18:32,382 [INFO] Update id=250819832 is handled. Duration 9589 ms by bot id=8111965567
+2025-06-05 22:32:45,405 [INFO] Msg received. 873105416 / привет
+2025-06-05 22:32:50,224 [INFO] Update id=250819833 is handled. Duration 4818 ms by bot id=8111965567
+2025-06-06 00:06:23,373 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-06-06 00:06:23,378 [WARNING] Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8111965567)
+2025-06-06 00:06:45,436 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:06:45,436 [WARNING] Sleep for 1.201259 seconds and try again... (tryings = 1, bot id = 8111965567)
+2025-06-06 00:07:07,694 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:07:07,694 [WARNING] Sleep for 1.590173 seconds and try again... (tryings = 2, bot id = 8111965567)
+2025-06-06 00:07:30,323 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:07:30,323 [WARNING] Sleep for 2.021421 seconds and try again... (tryings = 3, bot id = 8111965567)
+2025-06-06 00:07:43,506 [INFO] Connection established (tryings = 4, bot id = 8111965567)
+2025-06-06 00:11:05,146 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-06-06 00:11:05,147 [WARNING] Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8111965567)
+2025-06-06 00:11:08,223 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:11:08,223 [WARNING] Sleep for 1.427848 seconds and try again... (tryings = 1, bot id = 8111965567)
+2025-06-06 00:11:11,295 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:11:11,295 [WARNING] Sleep for 1.774025 seconds and try again... (tryings = 2, bot id = 8111965567)
+2025-06-06 00:11:14,367 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:11:14,367 [WARNING] Sleep for 2.303643 seconds and try again... (tryings = 3, bot id = 8111965567)
+2025-06-06 00:11:17,439 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:11:17,439 [WARNING] Sleep for 3.120736 seconds and try again... (tryings = 4, bot id = 8111965567)
+2025-06-06 00:11:23,583 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:11:23,583 [WARNING] Sleep for 3.974200 seconds and try again... (tryings = 5, bot id = 8111965567)
+2025-06-06 00:11:29,727 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:11:29,727 [WARNING] Sleep for 4.918704 seconds and try again... (tryings = 6, bot id = 8111965567)
+2025-06-06 00:11:35,871 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:11:35,871 [WARNING] Sleep for 4.897419 seconds and try again... (tryings = 7, bot id = 8111965567)
+2025-06-06 00:11:42,015 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:11:42,015 [WARNING] Sleep for 5.009766 seconds and try again... (tryings = 8, bot id = 8111965567)
+2025-06-06 00:11:48,159 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:11:48,159 [WARNING] Sleep for 4.756273 seconds and try again... (tryings = 9, bot id = 8111965567)
+2025-06-06 00:11:54,303 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:11:54,303 [WARNING] Sleep for 4.875361 seconds and try again... (tryings = 10, bot id = 8111965567)
+2025-06-06 00:12:00,447 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:12:00,447 [WARNING] Sleep for 5.058240 seconds and try again... (tryings = 11, bot id = 8111965567)
+2025-06-06 00:12:06,591 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:12:06,591 [WARNING] Sleep for 5.078713 seconds and try again... (tryings = 12, bot id = 8111965567)
+2025-06-06 00:12:12,735 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:12:12,735 [WARNING] Sleep for 5.030475 seconds and try again... (tryings = 13, bot id = 8111965567)
+2025-06-06 00:12:18,879 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:12:18,879 [WARNING] Sleep for 4.847169 seconds and try again... (tryings = 14, bot id = 8111965567)
+2025-06-06 00:12:25,023 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:12:25,023 [WARNING] Sleep for 4.987126 seconds and try again... (tryings = 15, bot id = 8111965567)
+2025-06-06 00:12:31,167 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:12:31,167 [WARNING] Sleep for 5.151115 seconds and try again... (tryings = 16, bot id = 8111965567)
+2025-06-06 00:12:37,311 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:12:37,311 [WARNING] Sleep for 4.979675 seconds and try again... (tryings = 17, bot id = 8111965567)
+2025-06-06 00:12:43,455 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:12:43,455 [WARNING] Sleep for 4.874071 seconds and try again... (tryings = 18, bot id = 8111965567)
+2025-06-06 00:12:49,599 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:12:49,599 [WARNING] Sleep for 4.958517 seconds and try again... (tryings = 19, bot id = 8111965567)
+2025-06-06 00:12:55,583 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:12:55,583 [WARNING] Sleep for 4.907656 seconds and try again... (tryings = 20, bot id = 8111965567)
+2025-06-06 00:13:02,239 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:13:02,239 [WARNING] Sleep for 4.869863 seconds and try again... (tryings = 21, bot id = 8111965567)
+2025-06-06 00:13:08,895 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:13:08,895 [WARNING] Sleep for 5.102837 seconds and try again... (tryings = 22, bot id = 8111965567)
+2025-06-06 00:13:15,551 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:13:15,551 [WARNING] Sleep for 4.982069 seconds and try again... (tryings = 23, bot id = 8111965567)
+2025-06-06 00:13:22,207 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:13:22,207 [WARNING] Sleep for 5.048630 seconds and try again... (tryings = 24, bot id = 8111965567)
+2025-06-06 00:13:28,863 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:13:28,863 [WARNING] Sleep for 4.942401 seconds and try again... (tryings = 25, bot id = 8111965567)
+2025-06-06 00:13:35,519 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:13:35,519 [WARNING] Sleep for 4.981199 seconds and try again... (tryings = 26, bot id = 8111965567)
+2025-06-06 00:13:42,175 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:13:42,175 [WARNING] Sleep for 5.058375 seconds and try again... (tryings = 27, bot id = 8111965567)
+2025-06-06 00:13:48,831 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:13:48,831 [WARNING] Sleep for 4.956298 seconds and try again... (tryings = 28, bot id = 8111965567)
+2025-06-06 00:13:55,487 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:13:55,487 [WARNING] Sleep for 5.007935 seconds and try again... (tryings = 29, bot id = 8111965567)
+2025-06-06 00:14:02,143 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:14:02,143 [WARNING] Sleep for 5.119325 seconds and try again... (tryings = 30, bot id = 8111965567)
+2025-06-06 00:14:08,799 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:14:08,799 [WARNING] Sleep for 5.058224 seconds and try again... (tryings = 31, bot id = 8111965567)
+2025-06-06 00:14:15,455 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:14:15,455 [WARNING] Sleep for 5.026443 seconds and try again... (tryings = 32, bot id = 8111965567)
+2025-06-06 00:14:22,111 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:14:22,111 [WARNING] Sleep for 5.049909 seconds and try again... (tryings = 33, bot id = 8111965567)
+2025-06-06 00:14:28,767 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:14:28,767 [WARNING] Sleep for 4.937952 seconds and try again... (tryings = 34, bot id = 8111965567)
+2025-06-06 00:14:35,423 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:14:35,423 [WARNING] Sleep for 4.971945 seconds and try again... (tryings = 35, bot id = 8111965567)
+2025-06-06 00:14:42,079 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:14:42,079 [WARNING] Sleep for 4.846227 seconds and try again... (tryings = 36, bot id = 8111965567)
+2025-06-06 00:14:48,735 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Connect call failed ('149.154.167.220', 443)]
+2025-06-06 00:14:48,735 [WARNING] Sleep for 5.075162 seconds and try again... (tryings = 37, bot id = 8111965567)

@@ -1,0 +1,5 @@
+2025-06-05 21:56:25,318 [INFO] Логирование настроено. Логи пишутся в bot_d277f5.log
+2025-06-05 21:56:25,349 [INFO] Start polling
+2025-06-05 21:56:25,527 [INFO] Run polling for bot @legend9723bot id=8111965567 - 'Already a legend'
+2025-06-05 21:56:37,138 [INFO] Msg received. 873105416 / Привет
+2025-06-05 21:56:37,335 [INFO] Update id=250819817 is handled. Duration 197 ms by bot id=8111965567
