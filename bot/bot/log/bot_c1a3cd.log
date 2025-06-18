@@ -1,0 +1,17 @@
+2025-06-05 22:00:15,994 [INFO] Логирование настроено. Логи пишутся в bot_af4df6.log
+2025-06-05 22:00:16,028 [INFO] Start polling
+2025-06-05 22:00:16,226 [INFO] Run polling for bot @legend9723bot id=8111965567 - 'Already a legend'
+2025-06-05 22:00:28,674 [INFO] Msg received. 873105416 / Привет
+2025-06-05 22:00:33,014 [INFO] Update id=250819818 is handled. Duration 4339 ms by bot id=8111965567
+2025-06-05 22:00:54,766 [INFO] Msg received. 873105416 / Кто убил Пушкина
+2025-06-05 22:01:03,079 [INFO] Update id=250819819 is handled. Duration 8313 ms by bot id=8111965567
+2025-06-05 22:03:51,013 [INFO] Start msg received. 873105416
+2025-06-05 22:03:51,195 [INFO] Update id=250819820 is handled. Duration 182 ms by bot id=8111965567
+2025-06-05 22:05:05,249 [INFO] Msg received. 873105416 / Кто такой Лакерник
+2025-06-05 22:05:14,396 [INFO] Update id=250819821 is handled. Duration 9148 ms by bot id=8111965567
+2025-06-05 22:05:28,470 [INFO] Start msg received. 873105416
+2025-06-05 22:05:28,572 [INFO] Update id=250819822 is handled. Duration 101 ms by bot id=8111965567
+2025-06-05 22:05:57,110 [INFO] Msg received. 873105416 / Кто такой Александр Рафаилович Лакерник
+2025-06-05 22:06:07,243 [INFO] Update id=250819823 is handled. Duration 10132 ms by bot id=8111965567
+2025-06-05 22:10:05,860 [INFO] Help msg received. 873105416
+2025-06-05 22:10:06,098 [INFO] Update id=250819824 is handled. Duration 238 ms by bot id=8111965567

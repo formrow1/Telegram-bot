@@ -1,0 +1,9 @@
+2025-06-05 22:12:07,453 [INFO] Логирование настроено. Логи пишутся в bot_5e614c.log
+2025-06-05 22:12:07,486 [INFO] Start polling
+2025-06-05 22:12:07,662 [INFO] Run polling for bot @legend9723bot id=8111965567 - 'Already a legend'
+2025-06-05 22:12:17,457 [INFO] Start msg received. 873105416
+2025-06-05 22:12:17,667 [INFO] Update id=250819825 is handled. Duration 210 ms by bot id=8111965567
+2025-06-05 22:12:25,412 [INFO] Help msg received. 873105416
+2025-06-05 22:12:25,521 [INFO] Update id=250819826 is handled. Duration 109 ms by bot id=8111965567
+2025-06-05 22:12:45,128 [INFO] Msg received. 873105416 / Кто такой Пушкин
+2025-06-05 22:12:55,173 [INFO] Update id=250819827 is handled. Duration 10045 ms by bot id=8111965567
