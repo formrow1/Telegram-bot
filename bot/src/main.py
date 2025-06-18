@@ -1,14 +1,16 @@
 # Подключаем нужные библиотеки
-import logging
-import uuid
-from pathlib import Path
-from aiogram import Bot, Dispatcher, types
-import asyncio
-from aiogram.filters import Command
-from aiogram.types import Message
-from aiogram.enums import ParseMode
-from aiogram.client.default import DefaultBotProperties
+import logging# функции для ведения логов. Он позволяет отслеживать события, происходящие в программе, что полезно для отладки и мониторинга.
+import uuid#UUID используются для генерации уникальных строк, которые могут служить идентификаторами объектов, например, для пользователей или сессий.
+from pathlib import Path#Он позволяет легко манипулировать путями к файлам и директориям, что упрощает работу с файловой системой.
+from aiogram import Bot, Dispatcher, types#Это асинхронная библиотека для Telegram Bot API, которая позволяет разрабатывать ботов на Python.
+import asyncio#Она предоставляет средства для работы с асинхронными функциями и задачами, позволяя выполнять операции параллельно и эффективно использовать ресурсы.
+from aiogram.filters import Command#Модуль позволяющий обрабатывать и фильтровать входящие сообщения и команды от пользователей.
+from aiogram.types import Message#Объекты получены в Telegram, такие как сообщения, пользователи и чаты.
+from aiogram.enums import ParseMode#
+from aiogram.client.default import DefaultBotProperties#
 import aiohttp # Используем aiohttp для асинхронных HTTP-запросов
+from dotenv import load_dotenv
+import os
 
 logging.basicConfig(
     level=logging.INFO,
@@ -25,8 +27,7 @@ logger.info("Логирование настроено. Логи пишутся 
 
 API_TOKEN = Path("./test_bot.bot_token").read_text().strip()  # Токен Telegram бота
 API_KEY = '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'  # API ключ OpenRouter
-OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
-OPENROUTER_MODEL = "deepseek/deepseek-r1-0528-qwen3-8b:free" # Используем Gemini 2.0 Pro
+
 
 # --- Инициализация бота и диспетчера ---
 bot = Bot(token=API_TOKEN, default=DefaultBotProperties(parse_mode=ParseMode.HTML))
@@ -123,3 +124,6 @@ if __name__ == '__main__':
     print("Ожидание сообщений...")
     dp.run_polling(bot, skip_updates=True)
 
+
+load_dotenv()
+token = os.getenv('TOKEN')
